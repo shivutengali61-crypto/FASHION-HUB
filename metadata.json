@@ -1,0 +1,6 @@
+{
+  "name": "FASHION HUB | Modern Indian Fashion Store",
+  "description": "Shop stylish and affordable fashion at FASHION HUB. Discover clothing, new arrivals, everyday essentials and the latest trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
